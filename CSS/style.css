@@ -1,0 +1,179 @@
+@import url("https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&display=swap");
+
+header{background-color: #4C2818;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;}
+    
+    
+    header img{height: 60px;
+    width: 60px;
+    color: #D5AA72;}
+    
+    
+    h1{display: inline;
+    color:#D5AA72 ;
+    font-size: 60px;
+    font-family: Brush Script MT, Brush Script Std, cursive;}
+    
+    
+    header h2{text-align: center;
+    font-family: Courier New, monospace;
+    color: #D5AA72;}
+    
+    
+    div{text-align: center;}
+    
+    
+    main{background-color: #e6dec5;}
+
+    nav a{position: absolute;
+        text-align: center;
+        left: -180px;
+        transition: 0.5s;
+        padding:15px;
+        width: 200px;
+        text-decoration: none;
+        font-size: 24px;
+        font-family: Courier New, monospace;
+        color:rgb(255, 255, 255);
+        border-radius: 0 10px 10px 0;}
+    
+    
+    
+    
+        nav a:hover{left:0;}
+
+        
+
+
+            .about{top:140px;
+            background-color: #c41f48;}
+        
+            .blog{top:210px;
+            background-color: #5c2f2f;}
+        
+            .projects{top:280px;
+            background-color: #ff9393;}
+        
+            a::after{content: url(https://i.postimg.cc/tTXCNV06/free-icon-animal-track-1689989.png);}
+        
+
+
+
+        
+
+            .konteuner{height: 300px;
+            width: 200px;
+            background-color: rgb(255, 255, 255);
+            font-family: "Ojuju", sans-serif;}
+
+            .konteuner:hover{box-shadow:1px 3px 20px 3px black;}
+
+            
+            .kava{height: 120px;
+            width: 100px;}
+
+            section{display: flex;
+            justify-content: space-evenly;
+            margin: 0 auto;
+            width:850px;
+            margin-top: 20px;
+            margin-bottom: 20px;}
+
+            .skidka2{transform: translateX(-90px)
+            translateY(-580px)}
+
+            .gina1{transform: translateX(-46px)
+            translateY(47px);}
+
+            .gina2{transform: translateX(-46px)
+            translateY(-8px);}
+
+            .gina3{transform: translateX(-46px)
+            translateY(47px);}
+
+            .gina4{transform: translateX(-46px)
+            translateY(47px);}
+
+            .gina5{transform: translateX(-46px)
+            translateY(47px);}
+
+            .gina6{transform: translateX(-46px)
+            translateY(47px);}
+
+            .gina7{transform: translateX(-46px)
+            translateY(45px);}
+
+            .gina8{transform: translateX(-46px)
+            translateY(41px);}
+
+             
+            .pokypka1{transform: translateX(57px)
+            translateY(5px)}
+
+            .pokypka2{transform: translateX(57px)
+            translateY(-50px)}
+
+            .pokypka3{transform: translateX(57px)
+            translateY(5px)}
+             
+            .pokypka4{transform: translateX(57px)
+            translateY(5px)}
+
+            .pokypka5{transform: translateX(57px)
+            translateY(5px)}
+
+            .pokypka6{transform: translateX(100px)
+            translateY(-38px)}
+
+            .pokypka7{transform: translateX(57px)
+            translateY(5px)}
+        
+            .pokypka8{transform: translateX(56px)
+            translateY(3px)}
+
+            .Skidka2{color: #c41f48;
+            font-size: 20px;
+            transform: translateX(-35px)
+            translateY(13px);}
+
+
+
+
+
+            footer{background-color: #4C2818;
+            display: flex;
+            justify-content: space-around;}
+        
+        
+            .kartinka1::before{content: url(https://i.postimg.cc/rsXRzP6M/icon-add-pin-alt-2.png);}
+        
+            .kartinka2::before{content: url(https://i.postimg.cc/nL4G2p06/icon-clock-outline-1.png);}
+        
+            .kartinka3::before{content: url(https://i.postimg.cc/FF8kYwxc/icon-phone-1.png);}
+        
+            .kot{height: 90px;
+            width: 90px;}
+        
+            .girnuy{font-size: 25px;
+            color: #D5AA72;
+            font-family: Brush Script MT, Brush Script Std, cursive;}
+        
+            .golovne{height: 300px ;
+            width: 200px;
+            background-color: #4C2818;}
+        
+            .dva{height: 300px;
+            width: 300px;
+        background-color: #4C2818;}
+        
+            .tri{height:300px;
+            width: 300px;
+        background-color: #4C2818;}
+        
+        
+            footer h3{color: white;
+            font-family:FreeMono, monospace ;}
+            .girnuy2{color: white;
+            font-family: FreeMono, monospace;}
